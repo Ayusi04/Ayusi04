@@ -20,24 +20,40 @@
 
 ---
 
-<!-- =============== ANIMATED ABOUT ME =============== -->
+<!-- =============== ABOUT ME =============== -->
 
 <h2 align="center">◈ ABOUT ME</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=120&lines=🎓+First-Year+B.Tech+CSE+Student;💻+Exploring+Software+Development;🤖+Interested+in+Artificial+Intelligence;🎨+Creative+UI%2FUX+Enthusiast;🚀+Building+Ideas+Into+Reality" alt="Animated About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=100&lines=Computer+Science+Student+%7C+Creative+Thinker;Exploring+Technology+Beyond+the+Classroom;Learning+by+Building+Real+Projects;Curiosity+Driven.+Creativity+Focused." alt="About Me Animation" />
 </p>
 
 <p align="center">
-  I'm a curious learner exploring the intersection of technology, creativity and innovation.
+  I'm <b>Ayusi Sharma</b>, a first-year Computer Science & Engineering student with an interest in technology, creative problem-solving and building things that make an impact.
 </p>
 
-- 🎓 Pursuing Computer Science & Engineering.
-- 💻 Learning programming and software development.
-- 🤖 Exploring Artificial Intelligence and emerging technologies.
-- 🎨 Interested in UI/UX design and creative experiences.
-- 🚀 Building projects and experimenting with new ideas.
-- 🌱 Growing through learning, collaboration and hackathons.
+<p align="center">
+  I enjoy exploring new tools, experimenting with ideas and transforming concepts into practical digital experiences. I'm currently developing my foundations in programming while exploring the world of AI and modern web technologies.
+</p>
+
+### ✦ What I'm Exploring
+
+- 💻 Programming & Software Development
+- 🤖 Artificial Intelligence & Generative AI
+- 🌐 Web Development & Modern Technologies
+- 🎨 UI/UX Design & Digital Experiences
+- 🚀 Hackathons, Collaboration & Project Building
+
+### ✦ My Approach
+
+- Learn by doing, not just observing.
+- Experiment, make mistakes and improve.
+- Stay curious about emerging technologies.
+- Build projects that solve meaningful problems.
+
+<p align="center">
+  <i>Currently learning, creating and finding my own path in tech.</i>
+</p>
 
 ---
 
