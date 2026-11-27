@@ -140,3 +140,7 @@ Exploring modern interfaces, animations, interactive experiences and collaborati
 
 </div>
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ayusi!;B.Tech+CSE+Student;Learning+and+Building+Every+Day" alt="Typing SVG" />
+</p>
