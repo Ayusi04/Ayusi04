@@ -1,35 +1,40 @@
 ```markdown
 <div align="center">
 
-# Ayusi Sharma
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:6366F1&height=190&section=header&text=AYUSI%20SHARMA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 
-### B.Tech CSE Student | Aspiring Software Developer
+# Hi, I'm Ayusi 👋
 
-*Exploring technology, building ideas, and learning through experience.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Exploring+Artificial+Intelligence;Learning+%7C+Building+%7C+Growing" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ayusi04-181717?style=flat-square&logo=github)](https://github.com/Ayusi04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayusi_Sharma-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayusi-sharma/)
-[![Instagram](https://img.shields.io/badge/Instagram-@ayusisharma04-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayusisharma04/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayusisharma04092008@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayusi04-181717?style=for-the-badge&logo=github)](https://github.com/Ayusi04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayusi-sharma/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayusisharma04/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ayusisharma04092008@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayusi04&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-Hello! I'm **Ayusi**, a first-year Computer Science and Engineering student with an interest in software development, artificial intelligence, and creative technology.
+I'm **Ayusi**, a first-year B.Tech Computer Science and Engineering student interested in software development, artificial intelligence and creative technology.
 
-I enjoy exploring new technologies, experimenting with ideas, and developing practical skills through hands-on projects.
+I enjoy exploring new technologies, experimenting with ideas and developing practical skills through hands-on projects.
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering.
-- 💻 Learning programming and software development.
-- 🌐 Exploring web development and modern technologies.
-- 🤖 Interested in Artificial Intelligence and its applications.
-- 🎨 Passionate about UI/UX and creative problem-solving.
-- 🚀 Interested in hackathons, teamwork and collaborative projects.
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Exploring programming and software development
+- 🌐 Interested in web development
+- 🤖 Exploring Artificial Intelligence
+- 🎨 Interested in UI/UX and product design
+- 🚀 Learning through projects and hackathons
+- 🌱 Always curious, always learning
 
-## Technical Skills
+---
+
+## 🛠️ Technical Skills
 
 **Programming Languages**
 
@@ -51,61 +56,87 @@ I enjoy exploring new technologies, experimenting with ideas, and developing pra
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## Projects
+---
 
-### Safarly — AI-First Travel Companion
+## 🚀 Featured Projects
+
+### ✈️ Safarly — AI-First Travel Companion
+
 A travel platform concept focused on helping users discover destinations and plan budget-conscious trips across India.
 
-**Focus:** Travel Technology · Artificial Intelligence · Web Development
+**Focus:** Travel Technology · AI · Web Development
 
-### Freshers' Hub — College Companion
-A student-focused platform concept designed to simplify campus navigation, access to notices, academic resources and college information.
+### 🎓 Freshers' Hub — College Companion
+
+A student-focused platform concept designed to simplify campus navigation, notices, academic resources and college information.
 
 **Focus:** EdTech · AI · Student Experience
 
-### Creative Web Experiments
-Exploring frontend development, interface design, animations and interactive digital experiences through collaborative projects.
+### 🎨 Creative Web Experiments
+
+Exploring modern interfaces, animations, interactive experiences and collaborative web development.
 
 **Focus:** Frontend · UI/UX · Creative Development
 
-## Currently Exploring
+---
 
-- C Programming and problem-solving
-- Python fundamentals
+## 📚 Currently Learning
+
+- C Programming
+- Python Fundamentals
 - Data Structures and Algorithms
-- Frontend development
-- Database management
+- Frontend Development
+- Database Fundamentals
 - Artificial Intelligence
-- Open-source collaboration
+- Git & Open Source Collaboration
 
-## GitHub Overview
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayusi04&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayusi04&show_icons=true&hide_border=true&theme=tokyonight&title_color=60A5FA&icon_color=60A5FA" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusi04&layout=compact&hide_border=true&theme=transparent&title_color=2563EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusi04&layout=compact&hide_border=true&theme=tokyonight&title_color=60A5FA" />
 
-<img src="https://streak-stats.demolab.com?user=Ayusi04&hide_border=true&theme=default" />
+<img width="95%" src="https://streak-stats.demolab.com?user=Ayusi04&theme=tokyonight&hide_border=true" />
 
 </div>
 
-## Connect With Me
+---
 
-I'm always interested in learning, exchanging ideas and connecting with people who share an interest in technology.
+## 🐍 Contribution Activity
 
-| Platform | Contact |
-|:---|:---|
-| GitHub | [@Ayusi04](https://github.com/Ayusi04) |
-| LinkedIn | [Ayusi Sharma](https://www.linkedin.com/in/ayusi-sharma/) |
-| Instagram | [@ayusisharma04](https://www.instagram.com/ayusisharma04/) |
-| Email | [ayusisharma04092008@gmail.com](mailto:ayusisharma04092008@gmail.com) |
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Ayusi04/Ayusi04/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-@ayusisharma04-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayusisharma04/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayusi_Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayusi-sharma/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-ayusisharma04092008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusisharma04092008@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Learning consistently. Building thoughtfully. Growing continuously.*
+### "Consistency turns curiosity into capability."
+
+*Learning. Building. Improving.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:1D4ED8,100:0F172A&height=100&section=footer" />
 
 </div>
 ```
